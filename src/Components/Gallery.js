@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container'
 
 export default function Gallery() {
     return (
-        <Container fluid="md">
+        <Container fluid="md"  id="gallery">
             <Carousel>
                 <Carousel.Item>
                     <img
