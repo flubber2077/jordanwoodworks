@@ -1,22 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 import Gallery from './Components/Gallery';
 import Container from 'react-bootstrap/Container';
 import Contact from './Components/Contact';
+import header from './Resources/header.jpeg';
+import headerSmall from './Resources/headerSmall.jpeg';
 import About from './Components/About';
 import Image from 'react-bootstrap/Image';
 import Navbar from './Components/Navbar.js';
 import Footer from './Components/Footer.js';
-import { Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
     <div className="App">
-      {/* Header and navigation */}
-      <Image id="" fluid="true" src="https://via.placeholder.com/1500x300" />
+      <Image id="" fluid="true" src={header}/>
       <Navbar />
-      {/* I dont know that I need routing for these, a static page would probably be ifne? */}
       <Gallery />
       <About />
       <Container>
