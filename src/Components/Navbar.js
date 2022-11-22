@@ -5,9 +5,9 @@ import Navbar from 'react-bootstrap/Navbar';
 
 export default function NavBar() {
     return (
-        <Navbar bg="light" expand="sm" sticky="top">
+        <Navbar bg="primary" expand="sm" sticky="top">
             <Container>
-                <Navbar.Brand href="#">Jordan Woodworks</Navbar.Brand>
+                <Navbar.Brand href="#">Jordan Woodworks of NC</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">

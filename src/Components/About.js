@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container'
 
 export default function About() {
     return (
-        <Container fluid="sm" id="about">
+        <Container fluid="sm" id="about" bg="dark">
             <div className="about">
                 <h1>About</h1>
                 <h4>
