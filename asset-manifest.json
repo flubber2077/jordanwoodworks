@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/woodworks/static/css/main.35a714c3.css",
-    "main.js": "/woodworks/static/js/main.8cb8c0eb.js",
-    "static/js/787.bcc86af4.chunk.js": "/woodworks/static/js/787.bcc86af4.chunk.js",
-    "static/media/header.jpeg": "/woodworks/static/media/header.f683808e36add772b85f.jpeg",
-    "static/media/headerSmall.jpeg": "/woodworks/static/media/headerSmall.d2a8539f807db5c97c23.jpeg",
-    "index.html": "/woodworks/index.html",
-    "static/media/phone.svg": "/woodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
-    "static/media/email.svg": "/woodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
-    "static/media/fb.svg": "/woodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.35a714c3.css.map": "/woodworks/static/css/main.35a714c3.css.map",
-    "main.8cb8c0eb.js.map": "/woodworks/static/js/main.8cb8c0eb.js.map",
-    "787.bcc86af4.chunk.js.map": "/woodworks/static/js/787.bcc86af4.chunk.js.map"
+    "main.css": "/jordanwoodworks/static/css/main.35a714c3.css",
+    "main.js": "/jordanwoodworks/static/js/main.ce1028e6.js",
+    "static/js/787.bcc86af4.chunk.js": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js",
+    "static/media/header.jpeg": "/jordanwoodworks/static/media/header.f683808e36add772b85f.jpeg",
+    "static/media/headerSmall.jpeg": "/jordanwoodworks/static/media/headerSmall.d2a8539f807db5c97c23.jpeg",
+    "index.html": "/jordanwoodworks/index.html",
+    "static/media/phone.svg": "/jordanwoodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
+    "static/media/email.svg": "/jordanwoodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
+    "static/media/fb.svg": "/jordanwoodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.35a714c3.css.map": "/jordanwoodworks/static/css/main.35a714c3.css.map",
+    "main.ce1028e6.js.map": "/jordanwoodworks/static/js/main.ce1028e6.js.map",
+    "787.bcc86af4.chunk.js.map": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35a714c3.css",
-    "static/js/main.8cb8c0eb.js"
+    "static/js/main.ce1028e6.js"
   ]
 }
