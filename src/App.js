@@ -13,7 +13,7 @@ import './scss/custom.scss';
 function App() {
   return (
     <div className="App">
-      <Image id="" fluid="true" src={header}/>
+      <Image id="" fluid="true" src={header} alt="Close up picture of end wood grain, with splits running through the grain"/>
       <Navbar />
       <Gallery />
       <About />

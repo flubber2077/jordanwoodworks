@@ -2,7 +2,6 @@ import React from "react"
 import email from '../Resources/email.svg';
 import phone from '../Resources/phone.svg';
 import fb from '../Resources/fb.svg';
-import Image from 'react-bootstrap/Image';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -37,9 +36,9 @@ const Footer = () => {
                                 <li>
                                     <Container fluid="true">
                                         <Row>
-                                            <Col><a href="https://www.facebook.com/JordanwoodworkNC/"><img src={fb} style={svgFormat} /></a></Col>
-                                            <Col><a href="tel:1-919-606-3782"><img fluid="true" src={phone} style={svgFormat} /></a></Col>
-                                            <Col><a href="mailto:YOUREMAIL@EMAILADDRESS.com"><img fluid="true" src={email} style={svgFormat} /></a></Col>
+                                            <Col><a href="https://www.facebook.com/JordanwoodworkNC/"><img src={fb} style={svgFormat} alt="icon of Facebook logo"/></a></Col>
+                                            <Col><a href="tel:1-919-606-3782"><img fluid="true" src={phone} style={svgFormat} alt="icon of telephone"/></a></Col>
+                                            <Col><a href="mailto:YOUREMAIL@EMAILADDRESS.com"><img fluid="true" src={email} style={svgFormat} alt="icon of mail for email"/></a></Col>
                                         </Row>
                                     </Container>
                                 </li>
