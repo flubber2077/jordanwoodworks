@@ -1,62 +1,104 @@
 import Carousel from 'react-bootstrap/Carousel'
 import Container from 'react-bootstrap/Container'
-import Chair from '../Resources/chair.jpg'
-import Table from '../Resources/table.jpg'
 import Gameboard from '../Resources/Gameboard.jpg'
+import Chair from '../Resources/chair.jpg'
+import Lamp from '../Resources/lamp.jpg'
+import CoffeeTable from '../Resources/coffeetable.jpg'
+import Table from '../Resources/table.jpg'
+import Tabletop from '../Resources/tabletop.jpg'
+import Spoons from '../Resources/spoons.jpg'
+import Budvases from '../Resources/budvases.jpg'
 
 export default function Gallery() {
     return (
-        <Container fluid="md"  id="gallery">
+        <Container fluid="sm"  id="gallery" md={4}>
             <Carousel>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={Gameboard}
-                        alt="First slide"
+                        alt="Handcrafted Wooden Gameboard"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3></h3>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={Chair}
-                        alt="Second slide"
+                        alt="Handcrafted wooden lawnchair outside"
                     />
-
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3></h3>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={Table}
-                        alt="Third slide"
+                        alt="Handcrafted live-edge table in workshop"
                     />
-
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                        </p>
+                        <h3></h3>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src={Table}
-                        alt="Third slide"
+                        src={Lamp}
+                        alt="Steampunk style lamp"
                     />
-
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                        </p>
+                        <h3></h3>
+                        <p></p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src={CoffeeTable}
+                        alt="Live edge small coffee table in the sunlight"
+                    />
+                    <Carousel.Caption>
+                        <h3></h3>
+                        <p></p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src={Tabletop}
+                        alt="Detail of coffee table top"
+                    />
+                    <Carousel.Caption>
+                        <h3></h3>
+                        <p></p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src={Spoons}
+                        alt="Handmade Wooden Spoons"
+                    />
+                    <Carousel.Caption>
+                        <h3></h3>
+                        <p></p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src={Budvases}
+                        alt="Small decorative wood and glass vases for a single flower"
+                    />
+                    <Carousel.Caption>
+                        <h3></h3>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
