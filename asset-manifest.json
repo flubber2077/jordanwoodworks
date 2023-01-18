@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jordanwoodworks/static/css/main.7abf6f27.css",
-    "main.js": "/jordanwoodworks/static/js/main.7124d2fd.js",
+    "main.css": "/jordanwoodworks/static/css/main.40f1c69b.css",
+    "main.js": "/jordanwoodworks/static/js/main.e2e90382.js",
     "static/js/787.bcc86af4.chunk.js": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js",
     "static/media/table.jpg": "/jordanwoodworks/static/media/table.38ca84890af4b76dcd32.jpg",
     "static/media/banner.jpg": "/jordanwoodworks/static/media/banner.a48dd6b539670db69822.jpg",
@@ -17,12 +17,12 @@
     "static/media/phone.svg": "/jordanwoodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
     "static/media/email.svg": "/jordanwoodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
     "static/media/fb.svg": "/jordanwoodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.7abf6f27.css.map": "/jordanwoodworks/static/css/main.7abf6f27.css.map",
-    "main.7124d2fd.js.map": "/jordanwoodworks/static/js/main.7124d2fd.js.map",
+    "main.40f1c69b.css.map": "/jordanwoodworks/static/css/main.40f1c69b.css.map",
+    "main.e2e90382.js.map": "/jordanwoodworks/static/js/main.e2e90382.js.map",
     "787.bcc86af4.chunk.js.map": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7abf6f27.css",
-    "static/js/main.7124d2fd.js"
+    "static/css/main.40f1c69b.css",
+    "static/js/main.e2e90382.js"
   ]
 }
