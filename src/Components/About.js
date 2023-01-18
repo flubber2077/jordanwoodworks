@@ -1,4 +1,6 @@
 import Container from 'react-bootstrap/Container'
+import Image from 'react-bootstrap/Image'
+import Cuttingboard from '../Resources/cuttingboard.jpg'
 
 export default function About() {
     return (
@@ -6,14 +8,11 @@ export default function About() {
             <div className="about">
                 <h1>About</h1>
                 <h4>
-                    Proin a ex diam. Suspendisse consectetur sem sit amet sem cursus, at cursus est vehicula. Suspendisse vulputate tortor tellus, ac auctor erat pretium laoreet. Vestibulum malesuada auctor nibh. Praesent id justo a enim tincidunt sagittis.
-                </h4>
-                <p></p>
-                <h4>
-                    Nam in orci viverra mauris tincidunt hendrerit. Donec posuere, nulla a mattis faucibus, magna erat placerat ante, ac vehicula ipsum purus at nunc. Duis suscipit neque at ante posuere, fringilla tristique nisi accumsan.
+                Ken Jordan makes artisan, unique and custom furniture, steam punk lamps, bud vases, and spoons out of hardwoods. He collaborates with the customer one-on-one in order to deliver a product that meets excellence and top-quality craftsmanship in North Carolina and beyond.
                 </h4>
                 <p></p>
             </div>
+            <Image fluid="true" rounded="true" src={Cuttingboard} />
         </Container>
     )
 }

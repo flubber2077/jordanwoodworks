@@ -13,8 +13,8 @@ const Footer = () => {
         <Container fluid='sm'>
             <Row>
                 <Col>
-                    <h5 className="text-uppercase">Footer Content</h5>
-                    <p>I am happy to talk about </p>
+                <h1>Contact</h1>
+                <h4>Get in touch or request a quote for a custom piece at:</h4>
                 </Col>
 
                 <Col>

@@ -2,7 +2,7 @@
 import Gallery from './Components/Gallery';
 import Container from 'react-bootstrap/Container';
 import Contact from './Components/Contact';
-import header from './Resources/header.jpeg';
+import header from './Resources/banner.jpg';
 import headerSmall from './Resources/headerSmall.jpeg';
 import About from './Components/About';
 import Image from 'react-bootstrap/Image';
@@ -17,11 +17,6 @@ function App() {
       <Navbar />
       <Gallery />
       <About />
-      <Container>
-        <Image fluid="true" rounded="true" src="https://images.squarespace-cdn.com/content/v1/57b6675ecd0f68c2b34451af/1538671696238-LU7IM3J91JJY8TV8SD0R/FJELSTEDNORD-69.jpg?format=1500w" />
-      </Container>
-      <Contact />
-
       <Footer />
     </div>
   );
