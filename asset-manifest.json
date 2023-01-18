@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/jordanwoodworks/static/css/main.303e4af1.css",
-    "main.js": "/jordanwoodworks/static/js/main.ab972119.js",
+    "main.css": "/jordanwoodworks/static/css/main.ea5f0ad2.css",
+    "main.js": "/jordanwoodworks/static/js/main.2ba9fa24.js",
     "static/js/787.bcc86af4.chunk.js": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js",
+    "static/media/spoons.jpg": "/jordanwoodworks/static/media/spoons.c02fd5c10068c859f106.jpg",
+    "static/media/budvases.jpg": "/jordanwoodworks/static/media/budvases.a3a1ee5b89c8bc5cfbeb.jpg",
+    "static/media/coffeetable.jpg": "/jordanwoodworks/static/media/coffeetable.5025c156db0653af9fd3.jpg",
     "static/media/cuttingboard.jpg": "/jordanwoodworks/static/media/cuttingboard.66683438423789e9aae5.jpg",
     "static/media/banner.jpg": "/jordanwoodworks/static/media/banner.a48dd6b539670db69822.jpg",
+    "static/media/tabletop.jpg": "/jordanwoodworks/static/media/tabletop.e9dab4274f4e9a30fcd9.jpg",
     "static/media/Gameboard.jpg": "/jordanwoodworks/static/media/Gameboard.1e763c6453c57d37c360.jpg",
     "static/media/table.jpg": "/jordanwoodworks/static/media/table.4f9af0996dd3c2005139.jpg",
     "static/media/chair.jpg": "/jordanwoodworks/static/media/chair.8192185ca56fdbe0e5b7.jpg",
+    "static/media/lamp.jpg": "/jordanwoodworks/static/media/lamp.112e4c48f1814752ae40.jpg",
     "index.html": "/jordanwoodworks/index.html",
     "static/media/phone.svg": "/jordanwoodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
     "static/media/email.svg": "/jordanwoodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
     "static/media/fb.svg": "/jordanwoodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.303e4af1.css.map": "/jordanwoodworks/static/css/main.303e4af1.css.map",
-    "main.ab972119.js.map": "/jordanwoodworks/static/js/main.ab972119.js.map",
+    "main.ea5f0ad2.css.map": "/jordanwoodworks/static/css/main.ea5f0ad2.css.map",
+    "main.2ba9fa24.js.map": "/jordanwoodworks/static/js/main.2ba9fa24.js.map",
     "787.bcc86af4.chunk.js.map": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.303e4af1.css",
-    "static/js/main.ab972119.js"
+    "static/css/main.ea5f0ad2.css",
+    "static/js/main.2ba9fa24.js"
   ]
 }
