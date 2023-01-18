@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/jordanwoodworks/static/css/main.35a714c3.css",
-    "main.js": "/jordanwoodworks/static/js/main.a68357aa.js",
+    "main.css": "/jordanwoodworks/static/css/main.303e4af1.css",
+    "main.js": "/jordanwoodworks/static/js/main.ab972119.js",
     "static/js/787.bcc86af4.chunk.js": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js",
-    "static/media/header.jpeg": "/jordanwoodworks/static/media/header.f683808e36add772b85f.jpeg",
-    "static/media/headerSmall.jpeg": "/jordanwoodworks/static/media/headerSmall.d2a8539f807db5c97c23.jpeg",
+    "static/media/cuttingboard.jpg": "/jordanwoodworks/static/media/cuttingboard.66683438423789e9aae5.jpg",
+    "static/media/banner.jpg": "/jordanwoodworks/static/media/banner.a48dd6b539670db69822.jpg",
+    "static/media/Gameboard.jpg": "/jordanwoodworks/static/media/Gameboard.1e763c6453c57d37c360.jpg",
+    "static/media/table.jpg": "/jordanwoodworks/static/media/table.4f9af0996dd3c2005139.jpg",
+    "static/media/chair.jpg": "/jordanwoodworks/static/media/chair.8192185ca56fdbe0e5b7.jpg",
     "index.html": "/jordanwoodworks/index.html",
     "static/media/phone.svg": "/jordanwoodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
     "static/media/email.svg": "/jordanwoodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
     "static/media/fb.svg": "/jordanwoodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.35a714c3.css.map": "/jordanwoodworks/static/css/main.35a714c3.css.map",
-    "main.a68357aa.js.map": "/jordanwoodworks/static/js/main.a68357aa.js.map",
+    "main.303e4af1.css.map": "/jordanwoodworks/static/css/main.303e4af1.css.map",
+    "main.ab972119.js.map": "/jordanwoodworks/static/js/main.ab972119.js.map",
     "787.bcc86af4.chunk.js.map": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35a714c3.css",
-    "static/js/main.a68357aa.js"
+    "static/css/main.303e4af1.css",
+    "static/js/main.ab972119.js"
   ]
 }
