@@ -33,7 +33,7 @@ const Footer = () => {
                             <a href="https://www.facebook.com/JordanwoodworkNC/"><p>facebook.com/JordanwoodworkNC/</p></a>
                         </li>
                         <li>
-                            <a href="tel:1-919-606-3782"><p>919-606-3782</p></a>
+                            <a href="tel:1-919-606-3783"><p>919-606-3783</p></a>
                         </li>
                         <li>
                             <a href="mailto:YOUREMAIL@EMAILADDRESS.com"><p>ken@jordanwoodworks.com</p></a>
