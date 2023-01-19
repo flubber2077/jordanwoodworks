@@ -11,7 +11,7 @@ import Budvases from '../Resources/budvases.jpg'
 
 export default function Gallery() {
     return (
-        <Container fluid="sm"  id="gallery" md={4}>
+        <Container id="gallery">
             <Carousel>
                 <Carousel.Item>
                     <img
