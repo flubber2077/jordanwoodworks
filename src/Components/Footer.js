@@ -19,7 +19,7 @@ const Footer = () => {
 
                 <Col>
                     <h5 className="text-uppercase">Get In Touch</h5>
-                    <ul className="list-unstyled text-start">
+                    <ul className="list-unstyled">
                         <li>
                             <Container fluid="true">
                                 <Row>
@@ -29,14 +29,15 @@ const Footer = () => {
                                 </Row>
                             </Container>
                         </li>
+                        <br/>
                         <li >
-                            <a href="https://www.facebook.com/JordanwoodworkNC/"><p>facebook.com/JordanwoodworkNC/</p></a>
+                            <a href="https://www.facebook.com/JordanwoodworkNC/">facebook.com/JordanwoodworkNC/</a>
                         </li>
                         <li>
-                            <a href="tel:1-919-606-3783"><p>919-606-3783</p></a>
+                            <a href="tel:1-919-606-3783">919-606-3783</a>
                         </li>
                         <li>
-                            <a href="mailto:YOUREMAIL@EMAILADDRESS.com"><p>ken@jordanwoodworks.com</p></a>
+                            <a href="mailto:YOUREMAIL@EMAILADDRESS.com">ken@jordanwoodworks.com</a>
                         </li>
 
                     </ul>
