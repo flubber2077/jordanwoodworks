@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/jordanwoodworks/static/css/main.40f1c69b.css",
-    "main.js": "/jordanwoodworks/static/js/main.98709d21.js",
-    "static/js/787.bcc86af4.chunk.js": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js",
-    "static/media/table.jpg": "/jordanwoodworks/static/media/table.38ca84890af4b76dcd32.jpg",
-    "static/media/banner.jpg": "/jordanwoodworks/static/media/banner.a48dd6b539670db69822.jpg",
-    "static/media/chair.jpg": "/jordanwoodworks/static/media/chair.cf737a7a20d4c8db6baa.jpg",
-    "static/media/spoons.jpg": "/jordanwoodworks/static/media/spoons.01605b6ecb296e01ad72.jpg",
-    "static/media/budvases.jpg": "/jordanwoodworks/static/media/budvases.96c4bc054b0018806666.jpg",
-    "static/media/lamp.jpg": "/jordanwoodworks/static/media/lamp.112e4c48f1814752ae40.jpg",
-    "static/media/cuttingboard.jpg": "/jordanwoodworks/static/media/cuttingboard.8616391a499ddf5a3451.jpg",
-    "static/media/coffeetable.jpg": "/jordanwoodworks/static/media/coffeetable.2beac76b0062df247677.jpg",
-    "static/media/Gameboard.jpg": "/jordanwoodworks/static/media/Gameboard.202e4ccf47e44c452167.jpg",
-    "static/media/tabletop.jpg": "/jordanwoodworks/static/media/tabletop.04a04e7478828c420f1f.jpg",
-    "index.html": "/jordanwoodworks/index.html",
-    "static/media/phone.svg": "/jordanwoodworks/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
-    "static/media/email.svg": "/jordanwoodworks/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
-    "static/media/fb.svg": "/jordanwoodworks/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.40f1c69b.css.map": "/jordanwoodworks/static/css/main.40f1c69b.css.map",
-    "main.98709d21.js.map": "/jordanwoodworks/static/js/main.98709d21.js.map",
-    "787.bcc86af4.chunk.js.map": "/jordanwoodworks/static/js/787.bcc86af4.chunk.js.map"
+    "main.css": "/static/css/main.40f1c69b.css",
+    "main.js": "/static/js/main.b5f9ac1b.js",
+    "static/js/787.bcc86af4.chunk.js": "/static/js/787.bcc86af4.chunk.js",
+    "static/media/table.jpg": "/static/media/table.38ca84890af4b76dcd32.jpg",
+    "static/media/banner.jpg": "/static/media/banner.a48dd6b539670db69822.jpg",
+    "static/media/chair.jpg": "/static/media/chair.cf737a7a20d4c8db6baa.jpg",
+    "static/media/spoons.jpg": "/static/media/spoons.01605b6ecb296e01ad72.jpg",
+    "static/media/budvases.jpg": "/static/media/budvases.96c4bc054b0018806666.jpg",
+    "static/media/lamp.jpg": "/static/media/lamp.112e4c48f1814752ae40.jpg",
+    "static/media/cuttingboard.jpg": "/static/media/cuttingboard.8616391a499ddf5a3451.jpg",
+    "static/media/coffeetable.jpg": "/static/media/coffeetable.2beac76b0062df247677.jpg",
+    "static/media/Gameboard.jpg": "/static/media/Gameboard.202e4ccf47e44c452167.jpg",
+    "static/media/tabletop.jpg": "/static/media/tabletop.04a04e7478828c420f1f.jpg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.02740a7bfe327ef0c9ecb84f396552c2.svg",
+    "static/media/email.svg": "/static/media/email.3000ecde11d0a2c8fe742f09a63e30e2.svg",
+    "static/media/fb.svg": "/static/media/fb.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.40f1c69b.css.map": "/static/css/main.40f1c69b.css.map",
+    "main.b5f9ac1b.js.map": "/static/js/main.b5f9ac1b.js.map",
+    "787.bcc86af4.chunk.js.map": "/static/js/787.bcc86af4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40f1c69b.css",
-    "static/js/main.98709d21.js"
+    "static/js/main.b5f9ac1b.js"
   ]
 }
